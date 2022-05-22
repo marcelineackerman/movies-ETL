@@ -1,6 +1,9 @@
 # System Files
 desktop.ini
 config.py
+Resources/ratings.csv
+Resources/movies_metadata.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
